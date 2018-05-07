@@ -1,0 +1,557 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StyleBlog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-30 17:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. used between list items, there is a space after the comma
+#: themebeez/hooks.php:90
+msgid " "
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#: themebeez/hooks.php:93 themebeez/theme-tags.php:18
+#: themebeez/theme-tags.php:34
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. theme credit info
+#: footer.php:65
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:217
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52 themebeez/theme-tags.php:15
+msgid ", "
+msgstr ""
+
+#: 404.php:29
+msgid "404"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: themebeez/hooks.php:180
+msgid "<i class=\"fa fa-reply\"></i>"
+msgstr ""
+
+#: themebeez/hooks.php:181
+msgid "<i class=\"fa fa-share\"></i>"
+msgstr ""
+
+#: functions.php:132 functions.php:142
+msgid "Add advertisement here"
+msgstr ""
+
+#: functions.php:112 functions.php:122
+msgid "Add widgets here."
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: functions.php:140
+msgid "Body Bottom Advertisement Area"
+msgstr ""
+
+#: themebeez/customizer/options/option-breadcrumb.php:13
+msgid "Breadcrumb"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: themebeez/widget/widgets/comment-widget.php:72
+msgid "By"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of comments.
+#: themebeez/theme-tags.php:51 themebeez/theme-tags.php:54
+#, php-format
+msgctxt "comments-no"
+msgid "%s Comment"
+msgstr ""
+
+#: themebeez/customizer/options/option-footer.php:34
+msgid "Copyright Text"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:760
+#: themebeez/third-party/breadcrumbs.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: themebeez/customizer/options/option-featslider.php:49
+msgid "Default no is 3. Minimum no is 1 and maximum no is 5."
+msgstr ""
+
+#: themebeez/customizer/options/option-single.php:36
+msgid "Default number is 5. Minimum no is 3 and maximum is 10."
+msgstr ""
+
+#: themebeez/customizer/options/option-featslider.php:63
+msgid "Display The Selected Category Only In Slider"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:21
+msgid "Displays Author's Information. Place it in sidebar."
+msgstr ""
+
+#: themebeez/widget/widgets/comment-widget.php:19
+msgid "Displays posts with recent comments. Place it in \"Sidebar Or Footer\""
+msgstr ""
+
+#: themebeez/widget/widgets/recent-widget.php:19
+msgid "Displays recent posts based on views. Place it in \"Sidebar Or Footer\""
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:49
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: 404.php:24
+msgid "ERROR"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:38
+msgid "Excerpt Length"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:225
+msgid "Facebook Link:"
+msgstr ""
+
+#: themebeez/customizer/options/option-featslider.php:12
+msgid "Featured Slider"
+msgstr ""
+
+#: functions.php:120 themebeez/customizer/options/option-footer.php:12
+msgid "Footer"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:239
+msgid "Google Plus Link:"
+msgstr ""
+
+#: themebeez/customizer/options/option-header.php:12
+msgid "Header"
+msgstr ""
+
+#: functions.php:130
+msgid "Header Advertisement Area"
+msgstr ""
+
+#: functions.php:52
+msgid "Header-top"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themebeez.com/"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://themebeez.com/downloads/style-blog-free-wordpress-fashion-blog-theme/"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:246
+msgid "Instagram Link:"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: themebeez/helpers.php:33
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:26
+msgid "Left Sidebar"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:281
+msgid "Linkedin Link:"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59 themebeez/theme-tags.php:31
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: themebeez/third-party/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:759
+#: themebeez/third-party/breadcrumbs.php:815
+#: themebeez/third-party/breadcrumbs.php:1184
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: themebeez/theme-tags.php:48
+msgid "No Comment"
+msgstr ""
+
+#: themebeez/widget/widgets/comment-widget.php:141
+msgid "No of Posts"
+msgstr ""
+
+#: themebeez/widget/widgets/recent-widget.php:138
+msgid "No of Recent Posts"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:28
+msgid "No Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: themebeez/customizer/options/option-featslider.php:48
+msgid "Numbers of Featured Posts"
+msgstr ""
+
+#: themebeez/customizer/options/option-single.php:35
+msgid "Numbers of Related Posts"
+msgstr ""
+
+#: themebeez/widget/widgets/comment-widget.php:84
+msgid "On"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One comment on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:12
+msgid "Others"
+msgstr ""
+
+#. %s is the page number.
+#: themebeez/third-party/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: 404.php:34
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:209
+msgid "Page:"
+msgstr ""
+
+#: template-parts/content-page.php:35 template-parts/content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:253
+msgid "Pinterest Link:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: themebeez/customizer/options/option-single.php:12
+msgid "Post Page"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: themebeez/hooks.php:107
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: index.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:27
+msgid "Right Sidebar"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:24
+msgid "SB-Sidebar: Author Info"
+msgstr ""
+
+#: themebeez/widget/widgets/comment-widget.php:22
+msgid "SB: Recent Comments"
+msgstr ""
+
+#: themebeez/widget/widgets/recent-widget.php:22
+msgid "SB: Recent Posts"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: themebeez/third-party/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s: search query.
+#: search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: themebeez/customizer/customizer-controls.php:45
+msgid "Select"
+msgstr ""
+
+#: themebeez/widget/widgets/recent-widget.php:120
+msgid "Select Category: "
+msgstr ""
+
+#: themebeez/customizer/options/option-featslider.php:35
+msgid "Select Featured Posts Category"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:39
+msgid "Select number of words to display in excerpt"
+msgstr ""
+
+#: themebeez/customizer/options/option-breadcrumb.php:23
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: themebeez/customizer/options/option-featslider.php:23
+msgid "Show Featured Slider"
+msgstr ""
+
+#: themebeez/widget/widgets/recent-widget.php:130
+msgid "Show Recent Posts"
+msgstr ""
+
+#: themebeez/customizer/options/option-single.php:23
+msgid "Show Related Posts"
+msgstr ""
+
+#: themebeez/customizer/options/option-footer.php:46
+msgid "Show Scroll Top Button"
+msgstr ""
+
+#: themebeez/customizer/options/option-footer.php:23
+msgid "Show Social Icons"
+msgstr ""
+
+#: themebeez/customizer/options/option-header.php:22
+msgid "Show Top Header"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: themebeez/customizer/options/option-others.php:22
+msgid "Sidebar Position"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:260
+msgid "Snapchat Link:"
+msgstr ""
+
+#: functions.php:51
+msgid "Social"
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: themebeez/helpers.php:28
+msgctxt "Spectral SC font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the theme
+msgid "StyleBlog"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"StyleBlog is a minimal, WordPress Theme, which is beautifully designed and "
+"developed with respect to WordPress standards. It is perfect for creating "
+"websites like personal blog, fashion blog, gourmet blog, travel blog etc. It "
+"is beautifully designed, responsive, and cross browser compatible. The theme "
+"is easy to use, can be easily customizable via customizer and is translation "
+"ready."
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "StyleBlog Plus"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:57
+msgid "Tags: "
+msgstr ""
+
+#: themebeez/customizer/options.php:9
+msgid "Theme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "themebeez"
+msgstr ""
+
+#: themebeez/widget/widgets/comment-widget.php:134
+#: themebeez/widget/widgets/recent-widget.php:114
+msgid "Title"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:202
+msgid "Title: "
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:232
+msgid "Twitter Link:"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:267
+msgid "VK Link:"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: themebeez/third-party/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:758
+#: themebeez/third-party/breadcrumbs.php:787
+#: themebeez/third-party/breadcrumbs.php:814
+#: themebeez/third-party/breadcrumbs.php:841
+#: themebeez/third-party/breadcrumbs.php:1180
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: themebeez/widget/widgets/author-widget.php:274
+msgid "Youtube Link:"
+msgstr ""

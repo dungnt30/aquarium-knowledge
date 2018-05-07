@@ -1,0 +1,269 @@
+#scroll-to-top{
+  background-color: #ffa500;
+  color: #fff;
+}
+
+#scroll-to-top:hover,
+#scroll-to-top:focus {
+  background-color: #fff;
+  color: #ffa500;
+  border-color: 1px solid #ffa500;
+}
+
+.navbar-default {
+  background-color: #ffa500;
+  border-color: #ffa500;
+}
+
+.custom-nav li a:hover {
+  border-color: #FFAE00;
+}
+
+
+.navbar-default .navbar-nav.custom-nav > li.active > a {
+  background-color: #fff;
+  color: #ffa500;
+  border-color: #FFAE00;
+}
+
+.navbar-default .navbar-nav.custom-nav > li > a:hover,
+.navbar-default .navbar-nav.custom-nav > li > a:focus {
+  background-color: #fff;
+  color: #ffa500;
+  border-color: #FFAE00;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #fff;
+  color: #ffa500;
+  border-color: #FFAE00;
+}
+
+.navbar-nav > li > .dropdown-menu {
+  margin-top: 1px;
+  background-color: #ffa500;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #fff;
+  color: #ffa500;
+  border-color: #FFAE00;
+  padding-left: 20px;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+  color: #fff
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #fcc259;
+}
+
+
+.bold-line span {
+  background-color: #ffa500;
+}
+
+span.meta-date:hover,
+span.meta-more:hover,
+span.meta-more a:hover {
+  color: #ffa500;
+}
+
+.media-heading a:hover {
+  color: #ffa500;
+}
+
+.single_bottom_rightbar > h2 {
+  border-bottom: 3px solid #ffa500;
+}
+
+.single_bottom_rightbar ul li > a:hover {
+  color: #FFA500;
+}
+
+.footer-top {
+  color: white;
+}
+
+.footer-top a {
+  color: white;
+}
+
+.breadcrumb {
+  background-color: #ffa500;
+  border: 2px solid #ffa500;
+}
+
+.breadcrumb li {
+  color: #fff;
+}
+
+.breadcrumb li a {
+  color: #fff;
+}
+
+.breadcrumb li a:hover {
+  color: #798992;
+}
+
+.breadcrumb > li+li:before {
+  color: #fff;
+}
+
+.breadcrumb > .active {
+  color: #fff;
+}
+
+.post-title {
+  color: #798992;
+}
+
+.catg-titile a:hover {
+  color: #ffa500
+}
+
+
+form input[type="submit"] {
+  background-color:  #ccc;
+  color: #fff;
+  border-color:  #ccc;
+}
+
+form input[type="submit"]:hover {
+  background-color: #ffa500;
+  color: #fff;
+  border-color: #ffa500
+}
+
+.labels_nav li a:hover {
+  background-color: #FFA500
+}
+
+.pagination-area .pagination > li.active > span {
+  background: #ffa500;
+  color: white;
+}
+
+.pagination-area .pagination > li > span,
+.pagination-area .pagination > li > a {
+  border-color: #ffa500;
+  color: #ffa500;
+}
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.sticky {}
+.gallery-caption{}
+.bypostauthor{}
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+        white-space: nowrap;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+
+
